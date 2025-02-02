@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ About Me
-#### I am a passionate **Java Backend Developer** with experience in building efficient, secure, and scalable systems. I focus on technologies like **Spring Boot** and **MongoDB**. I aim to design clean, maintainable, and performance-oriented solutions, following best backend architectural patterns.
+#### I am a passionate Java Backend Developer with experience in building efficient, secure, and scalable systems. I focus on technological stack from Spring framework family . I aim to design clean, maintainable, and performance-oriented solutions, following best backend architectural patterns.
 
 ---
 
