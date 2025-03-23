@@ -12,9 +12,9 @@
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)
 
 
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=oracle)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=A8B9CC)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
