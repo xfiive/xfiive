@@ -36,6 +36,15 @@
 </a>
 </div>
 
+### 🐍 &nbsp;GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xfiive/xfiive/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xfiive/xfiive/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/xfiive/xfiive/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mikhail-shytsko-029a5a297/"><img src="https://img.shields.io/badge/-Mikhail%20Shytsko-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
