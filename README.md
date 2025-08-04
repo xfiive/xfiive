@@ -36,7 +36,7 @@
 </a>
 </div>
 
-### 🐍 &nbsp;GitHub Contribution Snake
+### 🐍 &nbsp;What the snake eat my commits
 
 <p align="center">
   <picture>
