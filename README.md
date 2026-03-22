@@ -1,50 +1,30 @@
-<div>
-    <h1 align="center">Greetings, I am Mikhail <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
-    <p align="center">
-      <a href="https://git.io/typing-svg" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00AEFF&background=050F2C&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Student+of+TUKE" alt="Typing SVG" style="border: 1px solid #ffffff; border-radius: 8px;" />
-      </a>
-    </p>
-</div>
+# Hey, I'm Mikhail 👋
 
-### 🛠 &nbsp;Tech Stack
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
-![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)
+Software Engineer · AI Engineer · Founder of [Seedfast](https://seedfa.st)
 
+Product-oriented backend developer focused on creating value, not just writing code. I build backend systems, developer tools, and AI-powered products.
 
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)&nbsp;
+Currently building Seedfast — an AI-powered CLI that reads your PostgreSQL schema and generates realistic test data in under 3 minutes.
 
+## What I work with
 
+**Languages:** Java · Kotlin · Go  
+**Backend:** Spring Boot · Spring WebFlux · gRPC · Apache Kafka  
+**AI/ML:** LLM integration · Deeplearning4j · AI-powered developer tools  
+**Data:** PostgreSQL · Redis · Cassandra · Apache Flink  
+**Cloud & Infra:** Google Cloud Platform · GraalVM · Docker
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Intellij Idea](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=intellijidea)
+## Featured project
 
+**[Seedfast](https://seedfa.st)** — AI-powered CLI for database seeding. Reads PostgreSQL schemas, generates realistic data via LLM. Won 1st place at DDAccelerator Finals.
 
+## Highlights
 
-### ⚙️ &nbsp;GitHub Analytics
+- 🏆 DDAccelerator Finals — 1st place with Seedfast
+- 🚀 UVP Startup Accelerator — Top 3 finalist with Meetera
+- 🏗️ Founded HackPN — organized 2 hackathons
+- 🎓 BSc Computer Science, Technical University of Košice (2025)
 
-<div>
-<a href="https://github.com/xfiive" align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xfiive&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xfiive&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/> -->
-</a>
-</div>
+## Links
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xfiive/xfiive/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xfiive/xfiive/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/xfiive/xfiive/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mikhail-shytsko-029a5a297/"><img src="https://img.shields.io/badge/-Mikhail%20Shytsko-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mikhail.shytsko@gmail.com"><img src="https://img.shields.io/badge/-mikhail.shytsko@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+[Portfolio](https://mikhail.shytsko.com) · [LinkedIn](https://linkedin.com/in/mikhail-shytsko) · [X](https://x.com/mikhailshytsko) · [Email](mailto:mikhail.shytsko@gmail.com)
